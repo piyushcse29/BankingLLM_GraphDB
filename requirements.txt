@@ -1,0 +1,5 @@
+streamlit==1.32.2
+llama-index==0.10.20
+llama-index-embeddings-huggingface==0.1.4
+llama-index-llms-huggingface==0.1.4
+gradio==4.22.0
